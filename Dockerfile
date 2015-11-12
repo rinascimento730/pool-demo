@@ -19,4 +19,4 @@ ADD . /app/flaskapp
 
 EXPOSE 80
 
-ENTRYPOINT ["/usr/bin/python", "/app/flaskapp/app.py"]
+#ENTRYPOINT ["/usr/bin/python", "/app/flaskapp/app.py"]
