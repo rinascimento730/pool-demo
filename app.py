@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return '<h1>Hello World! - hoge</h1> \
+    return '<h1>Hello World! - master</h1> \
             <p>This is a sample wep application!</p>\
             <strong>Can you see some versions of this application?</strong>'
 
